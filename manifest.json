@@ -8,5 +8,13 @@
       "matches": ["https://www.twitch.tv/*"],
       "js": ["content.js"]
     }
-  ]
+  ],
+  "browser_action": {
+    "default_icon": "assets/bonus.png"
+  },
+  "icons": {
+    "16": "assets/bonus.png",
+    "48": "assets/bonus.png",
+    "128": "assets/bonus.png"
+  }
 }
